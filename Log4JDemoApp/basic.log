@@ -1,0 +1,5 @@
+2021-09-07 15:32:31,171 INFO [DemoLog4j] - Logging information for DemoLog4j
+2021-09-07 15:32:31,173 WARN [DemoLog4j] - This is last time warning
+2021-09-07 15:32:31,173 ERROR [DemoLog4j] - Error occurred due to false value
+2021-09-07 15:34:27,440 ERROR [DemoLog4j] - Error occurred due to false value
+2021-09-07 15:35:32,100 ERROR [DemoLog4j] - Error occurred due to false value
